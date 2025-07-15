@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Messaging App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Messaging App</h1>
+    <div id="messages"></div>
+    <input type="text" id="messageInput" placeholder="Type your message...">
+    <button id="sendButton">Send</button>
+
+    <script src="app.js"></script>
+</body>
+</html>
